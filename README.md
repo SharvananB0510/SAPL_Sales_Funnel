@@ -3,7 +3,7 @@
 As part of the bluetick.ai workstation experience, I had the opportunity to work on this project.
 
 - Link to the [Site](https://app.bluetick.ai/workstation/110)
-- Link to the [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzI4NGMyZWItZWNiNS00NDFhLThlYmItNGUwNzFkNWFlM2Q5IiwidCI6IjA0YWUyYjdkLWFlMTEtNDg4Zi05ZjA5LTJkZjFmODlmOGZiYSJ9)
+- Link to the [Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYzI4NGMyZWItZWNiNS00NDFhLThlYmItNGUwNzFkNWFlM2Q5IiwidCI6IjA0YWUyYjdkLWFlMTEtNDg4Zi05ZjA5LTJkZjFmODlmOGZiYSJ9](https://www.novypro.com/project/sales-funnel-analysis-for-hostel-chain-power-bi))
 
 ## Problem Statement
 
