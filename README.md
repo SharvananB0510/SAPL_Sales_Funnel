@@ -13,6 +13,10 @@ Strent AH Pvt Limited (SAPL) has recently launched student hostels across India,
 
 I created a Sales Funnel Analysis for SAPL to understand the different stages of the funnel and identify the significant factors contributing most to the lower lead conversion ratio.
 
+## Table Schema
+![image](https://github.com/SharvananB0510/SAPL_Sales_Funnel/assets/69303949/b34ce4cc-735e-4c97-b09a-bb30d2725d4a)
+
+
 ## Steps Followed in this Project
 
 1. Gathered and transformed the data in Excel.
