@@ -3,7 +3,7 @@
 As part of the bluetick.ai workstation experience, I had the opportunity to work on this project.
 
 - Link to the [Site](https://app.bluetick.ai/workstation/110)
-- Link to the [Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYzI4NGMyZWItZWNiNS00NDFhLThlYmItNGUwNzFkNWFlM2Q5IiwidCI6IjA0YWUyYjdkLWFlMTEtNDg4Zi05ZjA5LTJkZjFmODlmOGZiYSJ9](https://www.novypro.com/project/sales-funnel-analysis-for-hostel-chain-power-bi))
+- Link to the [Interactive Dashboard](https://www.novypro.com/project/sales-funnel-analysis-for-hostel-chain-power-bi)
 
 ## Problem Statement
 
@@ -26,6 +26,10 @@ I created a Sales Funnel Analysis for SAPL to understand the different stages of
 
 ## Final Result
 ![SAPL cover](https://github.com/SharvananB0510/SAPL_Sales_Funnel/assets/69303949/59c059d2-c891-4db4-b0f2-3845a705ea8b)
+
+### Overview :
+![image](https://github.com/SharvananB0510/SAPL_Sales_Funnel/assets/69303949/101d322d-1228-4e46-952b-60d00a0fe064)
+The subsequent process flow provides a comprehensive overview of the sales process that operates throughout the entire SAPL sales funnel.
 
 ### Interactive dashboard
 
